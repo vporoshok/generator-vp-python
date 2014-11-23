@@ -163,7 +163,7 @@ var VpPythonGenerator = yeoman.generators.Base.extend({
         ];
 
         this.prompt(prompts, function (props) {
-            this.projectName = this._.slugify(props.projectName);
+            this.projectName = this._.slugify(props.projectName.toLowerCase());
             this.about = props.about;
 
             this.author = props.author || this.author;

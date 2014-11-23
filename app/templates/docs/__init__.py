@@ -16,7 +16,7 @@ OPTIONS = {
     'paper': '',
     'apidoc': 'sphinx-apidoc',
     'builddir': '_build',
-    'package': 'simplegraph'
+    'package': '<%= projectName %>'
 }
 OPTIONS['sphinx-all'] = '-d {builddir}/doctrees {sphinx-opts} .'\
                         .format(**OPTIONS)

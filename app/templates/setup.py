@@ -13,7 +13,7 @@ REQUIREMENTS = [str(req.req) for req in parse_requirements('requirements.txt')]
 setup(
     name='<%= projectName %>',
     version='0.0.0',
-    url='http://<%= projectName.toLowerCase() %>.readthedocs.org',
+    url='http://<%= projectName %>.readthedocs.org',
     author='<%= author %>',
     author_email='<%= email %>',
     description=README,
