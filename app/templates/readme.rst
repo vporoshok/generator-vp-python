@@ -9,7 +9,6 @@
 <% if (travis) { %>
 .. |build-status| image:: https://travis-ci.org/<%= logins.travis %>/<%= projectName %>.svg?branch=master
    :target: https://travis-ci.org/<%= logins.travis %>/<%= projectName %>
-   :target:
    :alt: Build status
 .. |coverage-status| image:: https://img.shields.io/coveralls/<%= logins.caverals %>/<%= projectName %>.svg
    :target: https://coveralls.io/r/<%= logins.coveralls %>/<%= projectName %>
