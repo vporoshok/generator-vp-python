@@ -1,0 +1,1284 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"project",
+				"projectName"
+			],
+			[
+				"font",
+				"font_awesome"
+			],
+			[
+				"light",
+				"lightbox"
+			],
+			[
+				"tab",
+				"table_id (?)"
+			],
+			[
+				"lis",
+				"list_id"
+			],
+			[
+				"page",
+				"page_type"
+			],
+			[
+				"g",
+				"g_data"
+			],
+			[
+				"list",
+				"list_url"
+			],
+			[
+				"js",
+				"json"
+			],
+			[
+				"pro",
+				"projectName"
+			],
+			[
+				"re",
+				"reload	(?)"
+			],
+			[
+				"source",
+				"sourcemap"
+			],
+			[
+				"ple",
+				"pleeeaserc	{}"
+			],
+			[
+				"ge",
+				"generate-col-md-offset"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"map",
+				"map-1"
+			],
+			[
+				"arr",
+				"arr-right"
+			],
+			[
+				"lef",
+				"margin-left"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"text",
+				"text-light_gray"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"style",
+				"list-style"
+			],
+			[
+				"copy",
+				"copy-images"
+			],
+			[
+				"connect",
+				"connect-livereload"
+			],
+			[
+				"Ite",
+				"StopIteration  (class)"
+			],
+			[
+				"exce",
+				"exception1"
+			],
+			[
+				"iter",
+				"itervalues  (function)"
+			],
+			[
+				"st",
+				"stdin  (variable)"
+			],
+			[
+				"len",
+				"lenstr"
+			],
+			[
+				"ma",
+				"max_len"
+			],
+			[
+				"max",
+				"max_no"
+			],
+			[
+				"get",
+				"getpart"
+			],
+			[
+				"test",
+				"test_size"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"line",
+				"line_copy"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"cu",
+				"cur_line_number"
+			],
+			[
+				"cur",
+				"cur_line_length"
+			],
+			[
+				"is",
+				"is_letter_or_digit"
+			],
+			[
+				"togg",
+				"toggleClass"
+			],
+			[
+				"eve",
+				"events"
+			],
+			[
+				"parse",
+				"parseInt  (function)"
+			],
+			[
+				"logcol",
+				"logcol_pager-play"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"ov",
+				"overflow-y"
+			],
+			[
+				"logc",
+				"logcol_pager-info"
+			],
+			[
+				"log",
+				"logcol_pager-left"
+			],
+			[
+				"update_",
+				"update_filters"
+			],
+			[
+				"Contr",
+				"controller"
+			],
+			[
+				"App",
+				"AppRouter"
+			],
+			[
+				"toggle",
+				"toggle_model"
+			],
+			[
+				"serv",
+				"service"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"Col",
+				"CollectionView"
+			],
+			[
+				"service",
+				"service_name"
+			],
+			[
+				"VI",
+				"View"
+			],
+			[
+				"Controller",
+				"Marionette.Controller"
+			],
+			[
+				"Table",
+				"TableRow"
+			],
+			[
+				"ite",
+				"itemView"
+			],
+			[
+				"Co",
+				"CompositeView"
+			],
+			[
+				"services",
+				"services_widget"
+			],
+			[
+				"request",
+				"request_filter"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"Entry",
+				"EntryView"
+			],
+			[
+				"render",
+				"render_entry"
+			],
+			[
+				"add",
+				"addAll"
+			],
+			[
+				"c",
+				"change"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"jade",
+				"jade_all"
+			],
+			[
+				"View",
+				"View"
+			],
+			[
+				"mod",
+				"module_function"
+			],
+			[
+				"requ",
+				"require"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"routs",
+				"routes"
+			],
+			[
+				"router",
+				"router_settings"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"navbar",
+				"navbar-collapse"
+			],
+			[
+				"bower",
+				"bower_components"
+			],
+			[
+				"ti",
+				"tinylr"
+			],
+			[
+				"htt",
+				"http-server"
+			],
+			[
+				"li",
+				"livereload"
+			],
+			[
+				"n",
+				"notifications"
+			],
+			[
+				"entry",
+				"entry_hash"
+			],
+			[
+				"stree",
+				"streets"
+			],
+			[
+				"node",
+				"node_length"
+			],
+			[
+				"sc",
+				"s_code"
+			],
+			[
+				"dm",
+				"dmp_file"
+			],
+			[
+				"dmp",
+				"dmp_name"
+			],
+			[
+				"ex",
+				"exists"
+			],
+			[
+				"src",
+				"src_name"
+			],
+			[
+				"p",
+				"Pickler  (class)"
+			],
+			[
+				"chil",
+				"child"
+			],
+			[
+				"__",
+				"__setstate__"
+			],
+			[
+				"chi",
+				"childs"
+			],
+			[
+				"de",
+				"debug"
+			],
+			[
+				"street",
+				"streets_seq"
+			],
+			[
+				"t",
+				"t_street"
+			],
+			[
+				"s_",
+				"s_reduction"
+			],
+			[
+				"en",
+				"encode"
+			],
+			[
+				"pare",
+				"parent"
+			],
+			[
+				"s",
+				"s_name"
+			],
+			[
+				"o",
+				"ocatd"
+			],
+			[
+				"push",
+				"push_tree"
+			],
+			[
+				"path",
+				"patch_all"
+			],
+			[
+				"wo",
+				"worker_number"
+			],
+			[
+				"settings",
+				"_settings"
+			],
+			[
+				"up",
+				"update_types"
+			],
+			[
+				"se",
+				"settings"
+			],
+			[
+				"fill",
+				"fill_tree"
+			],
+			[
+				"co_",
+				"co_shrink"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"sli",
+				"slider-image-frame"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"slider-image",
+				"slider-image-item-title"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"PRE",
+				"PREVIEW_TEXT"
+			],
+			[
+				"ar",
+				"arItem"
+			],
+			[
+				"end",
+				"endforeach"
+			],
+			[
+				"code",
+				"code"
+			],
+			[
+				"CODE",
+				"CODE_GROUPS"
+			],
+			[
+				"ta",
+				"table_index"
+			],
+			[
+				"set",
+				"set_status"
+			],
+			[
+				"instance",
+				"instance_start_time"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/index.js",
+			"settings":
+			{
+				"buffer_size": 2518,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"gp",
+				"Git: Push"
+			],
+			[
+				"gc",
+				"Git: Commit"
+			],
+			[
+				"ga",
+				"Git: Add..."
+			],
+			[
+				"reip",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"reipy",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"exe",
+				"SublimeREPL: Python - execnet"
+			],
+			[
+				"srsh",
+				"SublimeREPL: PowerShell"
+			],
+			[
+				"repl",
+				"SublimeREPL: Shell"
+			],
+			[
+				"g",
+				"Git: Push"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"gist",
+				"Gist: Create Public Gist"
+			],
+			[
+				"C",
+				"Set Syntax: C"
+			],
+			[
+				"C++",
+				"Set Syntax: C++"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"fav",
+				"Favorite Files: Remove File(s)"
+			],
+			[
+				"code",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"togg",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"toggl",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"toggle linter",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"gcb",
+				"Git: Change Branch"
+			],
+			[
+				"gmb",
+				"Git: Merge Branch"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"usrbin",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"latex",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"sql",
+				"SQLExec: List connections"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"refre",
+				"Side Bar: Refresh"
+			],
+			[
+				"refer",
+				"Project: Refresh Folders"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pref",
+				"Preferences: Settings - User"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"git",
+				"GitStatus: Unmerged files"
+			],
+			[
+				"todo",
+				"TodoReview: Project Files"
+			],
+			[
+				"task",
+				"Set Syntax: Tasks"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"termin",
+				"Preferences: Terminal Settings – Default"
+			],
+			[
+				"Snippet: ",
+				"Snippet: py"
+			],
+			[
+				"tod",
+				"Show TODOs: Project and open files"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"ini",
+				"Set Syntax: INI"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 287.0,
+		"history":
+		[
+			"?",
+			"help()",
+			"help",
+			"refersh_folder_list()",
+			"import nose2",
+			"help()",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/vp/src/opensrc/generator-vp-python",
+		"/Users/vp/src/opensrc/generator-vp-python/app",
+		"/Users/vp/src/opensrc/generator-vp-python/app/templates"
+	],
+	"file_history":
+	[
+		"/Users/vp/src/opensrc/generator-vp-static/app/templates/_gitignore",
+		"/Users/vp/src/opensrc/generator-vp-static/app/templates/_tern-project",
+		"/Users/vp/src/opensrc/generator-vp-static/app/templates/_package.json",
+		"/Users/vp/src/opensrc/generator-vp-static/app/templates/layout/less/mixin.less",
+		"/Users/vp/src/opensrc/generator-vp-static/app/index.js",
+		"/Users/vp/src/opensrc/generator-vp-static/app/templates/_gulpfile.js",
+		"/Users/vp/src/opensrc/generator-vp-static/app/templates/layout/less/style.less",
+		"/Users/vp/src/opensrc/generator-vp-static/app/templates/_script.js",
+		"/Users/vp/src/opensrc/generator-vp-static/app/templates/bower.json",
+		"/Users/vp/src/opensrc/generator-vp-static/app/templates/layout/jade/base/base.jade",
+		"/Users/vp/Library/Caches/com.binarynights.ForkLift2/#25/section.php",
+		"/Users/vp/Library/Caches/com.binarynights.ForkLift2/#26/script.js",
+		"/Users/vp/Library/Caches/com.binarynights.ForkLift2/#19/index.php",
+		"/Users/vp/Library/Caches/com.binarynights.ForkLift2/#20/script.js",
+		"/Users/vp/Library/Caches/com.binarynights.ForkLift2/#23/template.php",
+		"/Users/vp/Library/Caches/com.binarynights.ForkLift2/#24/section.php",
+		"/Users/vp/Library/Caches/com.binarynights.ForkLift2/#22/template.php",
+		"/Users/vp/Library/Caches/com.binarynights.ForkLift2/#21/template.php",
+		"/Users/vp/src/opensrc/generator-vp-static/app/templates/content.json",
+		"/Users/vp/src/opensrc/generator-vp-static/app/templates/_index.jade",
+		"/Users/vp/src/opensrc/generator-vp-static/app/templates/_fabfile.py",
+		"/Users/vp/src/opensrc/generator-vp-static/app/templates/tern-project",
+		"/Users/vp/src/opensrc/generator-vp-static/app/templates/_layout.jade",
+		"/Users/vp/src/opensrc/generator-vp-static/app/templates/_mixin.less",
+		"/Users/vp/src/opensrc/generator-vp-static/app/templates/_nginx.conf",
+		"/Users/vp/src/opensrc/generator-vp-static/app/templates/editorconfig",
+		"/Users/vp/src/opensrc/generator-vp-static/.gitignore",
+		"/Users/vp/src/opensrc/generator-vp-static/app/templates/gulpfile.js",
+		"/Users/vp/src/mittec/mittec-promo/gulpfile.js",
+		"/Users/vp/src/mittec/mittec-promo/src/mixin.less",
+		"/Users/vp/src/mittec/mittec-promo/dst/index.html",
+		"/Users/vp/src/mittec/mittec-promo/dst/Archive.zip",
+		"/Users/vp/src/mittec/mittec-promo/package.json",
+		"/Users/vp/src/mittec/mittec-promo/dst/style.css",
+		"/Users/vp/src/mittec/mittec-promo/.gitignore",
+		"/Users/vp/src/mittec/mittec-promo/bower.json",
+		"/Users/vp/src/mittec/mittec-promo/dst/scripts/jquery.js",
+		"/Users/vp/src/mittec/mittec-promo/src/style.less",
+		"/Users/vp/src/mittec/mittec-promo/src/script.js",
+		"/Users/vp/src/mittec/mittec-promo/bower_components/jquery/src/wrap.js",
+		"/Users/vp/src/my/c/02_htoi/main.c",
+		"/Users/vp/src/my/c/03_maxline/maxline.c",
+		"/Users/vp/src/my/c/03_maxline/brackets.py",
+		"/Users/vp/src/my/c/03_maxline/test.py",
+		"/Users/vp/src/my/sites/test/wsgi/application",
+		"/Users/vp/src/my/sites/test/wsgi/static/README",
+		"/etc/hosts",
+		"/Users/vp/src/my/c/03_maxline/dstring.c",
+		"/Users/vp/src/my/c/03_maxline/dstring.h",
+		"/Users/vp/src/my/c/03_maxline/maxline",
+		"/Users/vp/src/my/c/03_maxline/mkstr.h",
+		"/Users/vp/src/my/c/03_maxline/mkstr.c",
+		"/Users/vp/Dropbox/sublime/User/c.sublime-build",
+		"/Users/vp/src/my/c/01_copy/main.c",
+		"/Users/vp/Dropbox/sublime/User/python.sublime-build",
+		"/Users/vp/Dropbox/sublime/User/C.sublime-build",
+		"/Users/vp/src/fieldforce/test.py",
+		"/Users/vp/Dropbox/_doc/tex/CV/CV.tex",
+		"/Users/vp/src/fieldforce/access_log",
+		"/Users/vp/Dropbox/_doc/tex/CV/max_line.c",
+		"/Users/vp/src/fieldforce/mon-logcol_erl/Makefile",
+		"/Users/vp/src/fieldforce/mon-logcol_erl/main.pid",
+		"/Users/vp/src/tasks.todo",
+		"/Users/vp/src/fieldforce/mon-logcol_wui/src/logcol/style.less",
+		"/Users/vp/src/fieldforce/mon-logcol_wui/src/main.js",
+		"/Users/vp/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/vp/Library/Application Support/Sublime Text 3/Packages/TernJS/TernJS.sublime-settings",
+		"/Users/vp/src/fieldforce/mon-logcol_wui/src/logcol/index.jade",
+		"/Users/vp/src/fieldforce/mon-logcol_wui/dst/scripts/json2.js",
+		"/Users/vp/src/fieldforce/mon-logcol_wui/gulpfile.js",
+		"/Users/vp/src/fieldforce/mon-logcol_wui/src/logcol/views.js",
+		"/Users/vp/src/fieldforce/mon-logcol_wui/src/logcol/layout.js",
+		"/Users/vp/src/fieldforce/mon-logcol_wui/src/.jshintrc",
+		"/Users/vp/src/fieldforce/mon-logcol_wui/.jshintrc",
+		"/Users/vp/src/fieldforce/mon-logcol_wui/fabfile.py",
+		"/Users/vp/src/fieldforce/mon-logcol_wui/src/logcol/models.js",
+		"/Users/vp/src/fieldforce/mon-logcol_wui/package.json",
+		"/Users/vp/src/fieldforce/mon-logcol_wui/src/index.jade",
+		"/Users/vp/src/fieldforce/mon-logcol_wui/dst/index.html",
+		"/Users/vp/src/fieldforce/mon-logcol_wui/bower.json",
+		"/Users/vp/src/fieldforce/mon-logcol_wui/.gitignore",
+		"/Users/vp/src/fieldforce/mon-logcol_wui/src/logcol/main.js",
+		"/Users/vp/src/fieldforce/mon-logcol_wui/dst/scripts/script.js",
+		"/Users/vp/src/fieldforce/mon-logcol_wui/dst/scripts/logcol/script.js",
+		"/Users/vp/src/fieldforce/mon-logcol_wui/src/style.less",
+		"/Users/vp/src/fieldforce/mon-logcol_wui/src/script.js",
+		"/Users/vp/src/fieldforce/mon-logcol_wui/dst/scripts/dst/scripts/..js",
+		"/Users/vp/src/fieldforce/mon-logcol_wui/src/jade/templates/logcol.jade",
+		"/Users/vp/src/fieldforce/mon-logcol_wui/src/less/templates/logcol.less",
+		"/Users/vp/src/fieldforce/mon-logcol_wui/src/js/logcol.js",
+		"/Users/vp/src/fieldforce/mon-logcol_wui/src/js/main.js",
+		"/Users/vp/src/fieldforce/mon-logcol_wui/src/less/style.less",
+		"/Users/vp/src/fieldforce/mon-logcol_wui/src/jade/index.jade",
+		"/Users/vp/src/fieldforce/mon-logcol_wui/dst/scripts/celery.js",
+		"/Users/vp/src/fieldforce/mon-logcol_wui/dst/scripts/zepto.js",
+		"/Users/vp/src/fieldforce/mon-logcol_wui/bower_components/jquery/.bower.json",
+		"/Users/vp/src/fieldforce/mon-logcol_wui/src/js/app.js",
+		"/Users/vp/src/fieldforce/mon-logcol_wui/dst/scripts/app.js",
+		"/Users/vp/src/fieldforce/docs/fabfile.py",
+		"/Users/vp/src/fieldforce/docs/docs/agreements/celery.md",
+		"/Users/vp/src/fieldforce/docs/mkdocs.yml",
+		"/Users/vp/src/fieldforce/docs/theme/base.html",
+		"/Users/vp/src/fieldforce/celery-beat/celerybeat-schedule",
+		"/Users/vp/src/fieldforce/cladr/cladr/settings.py",
+		"/Users/vp/src/fieldforce/cladr/cladr/tree.py",
+		"/Users/vp/src/fieldforce/cladr/cladr/storage.py",
+		"/Users/vp/src/fieldforce/cladr/sql/setup.sql",
+		"/Users/vp/src/fieldforce/cladr/main.py",
+		"/Users/vp/src/fieldforce/cladr/cladr/cladr.py",
+		"/Users/vp/.ipython/inotebook.plist",
+		"/Users/vp/src/fieldforce/cladr/cladr/~:.ipython:inotebook.plist",
+		"/Users/vp/.ipython/profile_inotebook/ipython_notebook_config.py",
+		"/Users/vp/.zshrc",
+		"/Users/vp/src/fieldforce/cladr/cladr/__init__.py",
+		"/Users/vp/src/fieldforce/cladr/cladr/update.py",
+		"/Users/vp/src/fieldforce/cladr/main.log",
+		"/Users/vp/.profile",
+		"/Users/vp/.zprofile",
+		"/Users/vp/Library/Application Support/Sublime Text 3/Packages/LaTeXTools/README.markdown",
+		"/Users/vp/Dropbox/_doc/tex/papers/201309_TP.paper/main.tex",
+		"/Users/vp/.ssh/config",
+		"/Users/vp/.ssh/conf",
+		"/Users/vp/Library/Application Support/Sublime Text 3/Packages/User/SQLExec.sublime-settings",
+		"/Users/vp/Library/Application Support/Sublime Text 3/Packages/SQLExec/SQLExec.sublime-settings",
+		"/Users/vp/Library/Application Support/Sublime Text 3/Packages/SQLExec/Default (OSX).sublime-keymap",
+		"/Users/vp/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/vp/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/vp/Library/Application Support/Sublime Text 3/Packages/User/py.sublime-snippet"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"underscore",
+			"bootstrap",
+			"lightbox",
+			"bootstrap",
+			"underscore",
+			"img",
+			"jshintrc",
+			"gitignore",
+			"editorconfig",
+			"_editorconfig",
+			"bower.json",
+			"mixin",
+			"lightbox2",
+			"lightbox",
+			"font_awesome",
+			"backbone",
+			"copy_list_args",
+			"\\t",
+			"bootstrap",
+			"_gulpfile",
+			"<%= projectName %>",
+			"static",
+			"src",
+			"images",
+			"src",
+			"strict",
+			"util",
+			"less-min",
+			"bootstrap",
+			"style",
+			"style(",
+			"style",
+			"@col-space",
+			"body",
+			"&:",
+			"5000",
+			"skype",
+			"email",
+			"magenta",
+			"Squares",
+			"end",
+			"no",
+			"line",
+			"last",
+			"', '",
+			"file",
+			"д",
+			"объ",
+			",",
+			"item",
+			"is_letter_or_digit",
+			"xmap2",
+			"now",
+			"Z",
+			"w",
+			",",
+			"0.7em",
+			"count",
+			"Logcol",
+			"\\t",
+			"this",
+			"fetch",
+			"filter_set",
+			"set",
+			"args",
+			"filters_change",
+			"filters_load",
+			"regions",
+			"reload",
+			"Backbone",
+			"c.",
+			"c",
+			"this",
+			"update",
+			"%5D",
+			"%5B",
+			"underscore",
+			"focus",
+			"this",
+			"levels",
+			"filter",
+			"show",
+			"Show",
+			"show",
+			"showServices",
+			"showLevels",
+			"toggle",
+			"click",
+			"service",
+			"ul.services",
+			"service",
+			"services",
+			"Services",
+			"this",
+			"services",
+			"service_name",
+			"service",
+			"toggleFilter",
+			"Layout",
+			"null",
+			"wreqr",
+			"text",
+			"services",
+			"filter",
+			"Filter",
+			"filter",
+			"_.",
+			"_",
+			"k",
+			"e",
+			"logcol",
+			"jquery",
+			"\"",
+			"https://github.com/SublimeLinter/SublimeLinter-jshint",
+			"jade",
+			"GrowlNotifier",
+			"Title",
+			"True",
+			"push",
+			"fill",
+			"reductions",
+			"extract",
+			"download",
+			"from",
+			"data",
+			"code",
+			"cp866",
+			"streets"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"  ",
+			"<%= _.slugify(projectName) %>",
+			"    ",
+			"]",
+			"[",
+			"_",
+			"'",
+			"365*24*3600",
+			"    ",
+			"360+640",
+			"\"",
+			"'",
+			"    ",
+			"    @",
+			"'",
+			"    "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2518,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2234,
+								2234
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"bs_sintax": "javascript",
+							"buffer_scroll_name": "30b4e30a",
+							"editorconfig": true,
+							"encoding_helper_encoding": "UTF-8",
+							"ensure_newline_at_eof_on_save": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 866.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SQLExec.errors":
+	{
+		"height": 114.0
+	},
+	"output.exec":
+	{
+		"height": 127.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 114.0
+	},
+	"output.sftp":
+	{
+		"height": 90.0
+	},
+	"project": "generator-vp-python.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/src/opensrc/generator-vp-static/generator-vp-static.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 202.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

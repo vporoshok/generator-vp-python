@@ -1,0 +1,18 @@
+language: python
+python:<% if (_.contains(py_vers, '2.7')) { %>
+  - 2.7<% } if (_.contains(py_vers, '3.4')) { %>
+  - 3.4<% } if (_.contains(py_vers, 'PyPy') && _.contains(py_vers, '2.7')) { %>
+  - pypy<% } if (_.contains(py_vers, 'PyPy') && _.contains(py_vers, '3.4')) { %>
+  - pypy3<% } %>
+
+install:
+  - pip install .
+  - pip install pytest
+  - pip install pytest-cov
+  - pip install coveralls
+
+script:
+  - py.test --cov-config tox.ini --cov-report '' --cov <%= projectName %>
+
+after_success:
+  - coveralls

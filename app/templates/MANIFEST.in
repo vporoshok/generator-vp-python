@@ -1,0 +1,3 @@
+include *.rst requirements.txt
+recursive-include <%= projectName %> *.py
+include LICENSE docs/changelog.rst

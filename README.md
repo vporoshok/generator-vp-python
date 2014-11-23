@@ -1,5 +1,22 @@
 # generator-vp-python [![Build Status](https://secure.travis-ci.org/vporoshok/generator-vp-python.png?branch=master)](https://travis-ci.org/vporoshok/generator-vp-python)
 
+Use `~/.about.me` file for defaults:
+```ini
+me = "Evgeniy Bastrykov"
+email = "vporoshok@gmail.com"
+
+[logins]
+github = vporoshok
+travis = vporoshok
+caverals = vporoshok
+bitbucket = vporoshok
+
+[passwords]
+
+[tokens]
+github = "<your token with repository access>"
+```
+
 > [Yeoman](http://yeoman.io) generator
 
 
