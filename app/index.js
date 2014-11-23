@@ -184,6 +184,9 @@ var VpPythonGenerator = yeoman.generators.Base.extend({
             this.sphinx = isChecked('Sphinx', props.options);
 
             this.py_vers = props.py_vers;
+            this.tox = this._.map(this.py_vers, function (ver) {
+                return 'py' + ver.replace(/\./, '').replace(/PyPy/, 'py');
+            });
 
             done();
         }.bind(this));
