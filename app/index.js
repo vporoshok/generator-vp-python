@@ -63,7 +63,8 @@ var VpPythonGenerator = yeoman.generators.Base.extend({
             {
                 type: 'input',
                 name: 'projectName',
-                message: 'What is the project name?'
+                message: 'What is the project name?',
+                defaults: ''
             }, {
                 type: 'input',
                 name: 'about',
