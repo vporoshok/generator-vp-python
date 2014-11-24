@@ -25,16 +25,15 @@ var VpPythonGenerator = yeoman.generators.Base.extend({
             defaults: true
         });
 
-        var config = {}
-        var ini_file = path.join(process.env.HOME, '.about.me')
+        var config;
+        var ini_file = path.join(process.env.HOME, '.about.me');
         try {
             config = ini.parse(fs.readFileSync(ini_file, 'utf-8'));
         } catch(e) {
-            throw e;
+            config = {};
         }
-
-        this.author = config.about.me || '';
-        this.email = config.about.email || '';
+        this.author = config.about ? config.about.me || '' : '';
+        this.email = config.about ? config.about.email || '': '';
 
         this.logins = config.logins || {};
 
