@@ -33,8 +33,8 @@ var VpPythonGenerator = yeoman.generators.Base.extend({
             throw e;
         }
 
-        this.author = config.me || '';
-        this.email = config.email || '';
+        this.author = config.about.me || '';
+        this.email = config.about.email || '';
 
         this.logins = config.logins || {};
 

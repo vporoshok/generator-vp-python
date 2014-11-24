@@ -2,6 +2,7 @@
 
 Use `~/.about.me` file for defaults:
 ```ini
+[about]
 me = "Evgeniy Bastrykov"
 email = "vporoshok@gmail.com"
 
